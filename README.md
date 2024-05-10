@@ -6,7 +6,7 @@
 Este desafio consiste em um treinamento sobre a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
 ## Desafio
-A partir de uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado, criei uma página da Wikipédia sobre os temas One Piece.
+A partir de uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado, criei uma página da Wikipédia sobre o tema de One Piece.
 
 ## 👨‍💻 Desenvolvedor
 
